@@ -18,4 +18,6 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 body {
 	padding: 100px;
 	background-color: #ccc;
+	font-family: fantasy;
+	font-size: 24pt;
 }
